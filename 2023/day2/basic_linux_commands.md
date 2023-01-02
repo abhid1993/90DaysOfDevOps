@@ -15,7 +15,6 @@ Examples:
 ### Directoy commands
 - ```pwd``` --> print work directory. Gives the present working directory.
 
-- ```cd path_to_directory``` --> change directory to the provided path
 
 - ```cd ~ ``` or just  ```cd ``` --> change directory to the home directory
 
